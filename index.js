@@ -5,7 +5,7 @@ const server = http.createServer((req, res) => {
   res.end('Hola Eddie bautista de unir\n');
 });
 
-const PORT = 80;
+const PORT = 3000;
 
 server.listen(PORT, () => {
   console.log(`Servidor corriendo en el puerto ${PORT}`);
