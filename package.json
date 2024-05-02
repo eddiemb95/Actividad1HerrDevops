@@ -1,0 +1,14 @@
+{
+    "name": "actividad_1_eddie_bautista",
+    "version": "1.0.0",
+    "description": "Una aplicación Node.js que dice Hola Mundo y corre en el puerto 80",
+    "main": "app.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Eddie  bautista",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
