@@ -9,6 +9,7 @@
     "author": "Eddie  bautista",
     "license": "ISC",
     "dependencies": {
+      "mongodb": "^4.0.0",
       "express": "^4.17.1"
     }
   }
